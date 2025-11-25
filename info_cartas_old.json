@@ -1,0 +1,360 @@
+{
+    "cartas": {
+        "raider_waite": [
+            {
+                "id": "raider-waite-10",
+                "atk": 68,
+                "def": 36,
+                "hp": 113,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-10_atk_68_def_36_hp_113.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-11",
+                "atk": 97,
+                "def": 53,
+                "hp": 118,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-11_atk_97_def_53_hp_118.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-12",
+                "atk": 71,
+                "def": 43,
+                "hp": 96,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-12_atk_71_def_43_hp_96.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-13",
+                "atk": 83,
+                "def": 47,
+                "hp": 92,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-13_atk_83_def_47_hp_92.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-14",
+                "atk": 65,
+                "def": 46,
+                "hp": 101,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-14_atk_65_def_46_hp_101.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-15",
+                "atk": 100,
+                "def": 24,
+                "hp": 114,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-15_atk_100_def_24_hp_114.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-16",
+                "atk": 64,
+                "def": 49,
+                "hp": 114,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-16_atk_64_def_49_hp_114.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-17",
+                "atk": 80,
+                "def": 39,
+                "hp": 104,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-17_atk_80_def_39_hp_104.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-18",
+                "atk": 90,
+                "def": 20,
+                "hp": 120,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-18_atk_90_def_20_hp_120.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-19",
+                "atk": 95,
+                "def": 57,
+                "hp": 103,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-19_atk_95_def_57_hp_103.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-1",
+                "atk": 62,
+                "def": 34,
+                "hp": 107,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-1_atk_62_def_34_hp_107.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-20",
+                "atk": 72,
+                "def": 26,
+                "hp": 100,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-20_atk_72_def_26_hp_100.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-21",
+                "atk": 61,
+                "def": 25,
+                "hp": 113,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-21_atk_61_def_25_hp_113.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-22",
+                "atk": 86,
+                "def": 53,
+                "hp": 118,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-22_atk_86_def_53_hp_118.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-2",
+                "atk": 62,
+                "def": 57,
+                "hp": 92,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-2_atk_62_def_57_hp_92.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-3",
+                "atk": 87,
+                "def": 35,
+                "hp": 108,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-3_atk_87_def_35_hp_108.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-4",
+                "atk": 89,
+                "def": 24,
+                "hp": 118,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-4_atk_89_def_24_hp_118.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-5",
+                "atk": 68,
+                "def": 23,
+                "hp": 109,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-5_atk_68_def_23_hp_109.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-6",
+                "atk": 83,
+                "def": 38,
+                "hp": 119,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-6_atk_83_def_38_hp_119.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-7",
+                "atk": 100,
+                "def": 31,
+                "hp": 91,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-7_atk_100_def_31_hp_91.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-8",
+                "atk": 65,
+                "def": 43,
+                "hp": 110,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-8_atk_65_def_43_hp_110.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            },
+            {
+                "id": "raider-waite-9",
+                "atk": 63,
+                "def": 30,
+                "hp": 113,
+                "ruta_frente": "assets/img/deck_battle/raider_waite/id_raider-waite-9_atk_63_def_30_hp_113.png",
+                "ruta_reverso": "assets/img/deck_battle/raider_waite/reverse.png"
+            }
+        ],
+        "senkai_yami": [
+            {
+                "id": "senkai-yami-10",
+                "atk": 86,
+                "def": 51,
+                "hp": 101,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-10_atk_86_def_51_hp_101.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-11",
+                "atk": 72,
+                "def": 60,
+                "hp": 109,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-11_atk_72_def_60_hp_109.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-12",
+                "atk": 83,
+                "def": 47,
+                "hp": 104,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-12_atk_83_def_47_hp_104.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-13",
+                "atk": 60,
+                "def": 26,
+                "hp": 104,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-13_atk_60_def_26_hp_104.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-14",
+                "atk": 67,
+                "def": 60,
+                "hp": 99,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-14_atk_67_def_60_hp_99.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-15",
+                "atk": 71,
+                "def": 47,
+                "hp": 118,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-15_atk_71_def_47_hp_118.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-16",
+                "atk": 61,
+                "def": 39,
+                "hp": 109,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-16_atk_61_def_39_hp_109.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-17",
+                "atk": 84,
+                "def": 53,
+                "hp": 94,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-17_atk_84_def_53_hp_94.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-18",
+                "atk": 80,
+                "def": 57,
+                "hp": 102,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-18_atk_80_def_57_hp_102.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-19",
+                "atk": 73,
+                "def": 25,
+                "hp": 110,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-19_atk_73_def_25_hp_110.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-1",
+                "atk": 65,
+                "def": 34,
+                "hp": 119,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-1_atk_65_def_34_hp_119.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-20",
+                "atk": 73,
+                "def": 31,
+                "hp": 115,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-20_atk_73_def_31_hp_115.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-21",
+                "atk": 67,
+                "def": 43,
+                "hp": 91,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-21_atk_67_def_43_hp_91.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-22",
+                "atk": 73,
+                "def": 21,
+                "hp": 105,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-22_atk_73_def_21_hp_105.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-2",
+                "atk": 90,
+                "def": 46,
+                "hp": 117,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-2_atk_90_def_46_hp_117.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-3",
+                "atk": 73,
+                "def": 49,
+                "hp": 90,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-3_atk_73_def_49_hp_90.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-4",
+                "atk": 87,
+                "def": 59,
+                "hp": 94,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-4_atk_87_def_59_hp_94.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-5",
+                "atk": 61,
+                "def": 26,
+                "hp": 96,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-5_atk_61_def_26_hp_96.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-6",
+                "atk": 87,
+                "def": 31,
+                "hp": 90,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-6_atk_87_def_31_hp_90.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-7",
+                "atk": 98,
+                "def": 51,
+                "hp": 110,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-7_atk_98_def_51_hp_110.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-8",
+                "atk": 73,
+                "def": 40,
+                "hp": 92,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-8_atk_73_def_40_hp_92.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            },
+            {
+                "id": "senkai-yami-9",
+                "atk": 97,
+                "def": 46,
+                "hp": 98,
+                "ruta_frente": "assets/img/deck_battle/senkai_yami/id_senkai-yami-9_atk_97_def_46_hp_98.png",
+                "ruta_reverso": "assets/img/deck_battle/senkai_yami/reverse.png"
+            }
+        ]
+    }
+}
