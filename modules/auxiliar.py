@@ -45,7 +45,7 @@ def cargar_configs_stage(stage_data: dict):
         stage_data['ruta_mazos'] = stage_data.get('configs').get('ruta_mazos')
         stage_data['nombre_mazo_enemigo'] = stage_data.get('configs').get('mazo_enemigo')
         stage_data['nombre_mazo_jugador'] = stage_data.get('configs').get('mazo_jugador')
-        stage_data['ruta_mazo_jugador'] = stage_data.get('configs').get('ruta_mazo_player')
+        stage_data['ruta_mazo_jugador'] = stage_data.get('configs').get('mazo_jugador')
         stage_data['coords_inicial_mazo_enemigo'] = stage_data.get('configs').get('coordenada_mazo_enemigo')
         stage_data['coords_inicial_mazo_player'] = stage_data.get('configs').get('coordenada_mazo_player')
         stage_data['cantidad_cartas_jugadores'] = stage_data.get('configs').get('cantidad_cartas_jugadores')
@@ -90,7 +90,6 @@ def generar_bd_cartas(path_mazo: str) -> dict:
                     'hp' : int(datos_crudo[2]),
                     'atk' : int(datos_crudo[4]),
                     'def' : int(datos_crudo[6]),
-
                     'ruta_frente': card_path,
                     'ruta_reverso': ''
                 }

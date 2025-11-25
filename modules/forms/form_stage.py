@@ -149,19 +149,25 @@ def crear_form_stage(dict_form_data: dict):
     return form
 
 def jugar_mano(form_dict_data: dict):
+    
     stage = form_dict_data.get('stage')
-    if stage_juego.hay_jugadores_con_cartas(stage):
+    
+    if ((not stage.get('juego_finalizado') or
+        stage.get('stage_timer') > 0) and 
+        (stage.get('jugador').get('hp_actual') > 0 and stage.get('enemigo').get('hp_actual') > 0)):
+
         critical, ganador_mano = stage_juego.jugar_mano(stage)
         print(f'El ganador de la mano es: {ganador_mano}')
 
 def verificar_terminado(form_dict_data: dict):
     stage = form_dict_data.get('stage')
-    if not stage_juego.hay_jugadores_con_cartas(stage) and stage_juego.esta_finalizado(stage):
+    if stage_juego.esta_finalizado(stage):
+        
         print('EL JUEGO ESTA TERMINADO')
-        # print(f'ganador: {stage_juego.obtener_ganador(stage)}')
+       
         if particip_juego.get_nombre_participante(
             stage_juego.obtener_ganador(stage)
-        ) == 'Enemigo':
+        ) == 'enemigo':
             win_status = False
         else:
             win_status = True

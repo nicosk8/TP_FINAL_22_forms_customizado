@@ -178,17 +178,16 @@ def obtener_ganador(stage_data: dict) -> bool:
     return stage_data.get('ganador')
 
 def jugar_mano(stage_data: dict):
-    if not stage_data.get('juego_finalizado'):
+#    if not stage_data.get('juego_finalizado'):
         jugar_mano_stage(stage_data)
 
         critical, ganador_mano = comparar_damage(stage_data)
 
         return critical, ganador_mano
-    return None
+#    return None
 
 def draw_jugadores(stage_data: dict):
     particip_juego.draw_participante(stage_data.get('jugador'), stage_data.get('screen'))
-    # print(particip_juego.get_cartas_restantes_participante(stage_data.get('jugador')))
     particip_juego.draw_participante(stage_data.get('enemigo'), stage_data.get('screen'))
 
 def update(stage_data: dict):
