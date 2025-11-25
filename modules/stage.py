@@ -146,6 +146,10 @@ def comparar_damage(stage_data: dict):
             particip_juego.restar_stats_participante(enemigo, carta_jugador, critical)
             particip_juego.add_score_participante(jugador, score)
     
+    print(f'Datos de la ronda actual:')
+    print(f'{stage_data.get('jugador').get('nombre')} -> Carta -> HP: {carta.get_hp_carta(carta_jugador)} - ATK: {atk_jugador} - DEF: {carta.get_def_carta(carta_jugador)} - Critical: {critical} - Vida total jugador: {stage_data.get('jugador').get('hp_actual')}')
+    print(f'{stage_data.get('enemigo').get('nombre')} -> Carta -> HP: {carta.get_hp_carta(carta_jugador)} - ATK: {atk_enemigo} - DEF: {carta.get_def_carta(carta_enemigo)} - Critical: {critical} - Vida total enemigo: {stage_data.get('enemigo').get('hp_actual')}')
+    
     return critical, ganador_mano
 
 def setear_ganador(stage_data: dict, participante: dict):

@@ -167,7 +167,7 @@ def verificar_terminado(form_dict_data: dict):
        
         if particip_juego.get_nombre_participante(
             stage_juego.obtener_ganador(stage)
-        ) == 'enemigo':
+        ) == 'Enemigo':
             win_status = False
         else:
             win_status = True
